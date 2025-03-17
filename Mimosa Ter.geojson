@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "Mimosa Ter",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Mimosa Ter" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 103.8607932, 1.3845912 ], [ 103.8608119, 1.3843405 ], [ 103.8609205, 1.3843472 ], [ 103.8609199, 1.384443 ], [ 103.8609139, 1.3845992 ], [ 103.8608542, 1.3845938 ], [ 103.8607932, 1.3845912 ] ] ] } }
+]
+}
