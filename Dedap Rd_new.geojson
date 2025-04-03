@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Dedap Rd",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Dedap Rd" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 103.8633714,1.3886296 ], [ 103.8633298,1.3885386 ], [ 103.8633996,1.3885023 ], [ 103.8634479,1.3885854 ], [ 103.8633714,1.3886296 ] ] ] } }
+]
+}
+ty":1,"stroke":"#e61f00","stroke-width":1.2}}]}
